@@ -1,5 +1,5 @@
 # Hi there, I'm Abhishek Harde 👋
-![Peaceful mountains with a person working on a laptop]([https://your-image-url.com/image.jpg](https://github.com/abhiyana/abhiyana/blob/main/anime_1.png))
+![Peaceful mountains with a person working on a laptop](https://github.com/abhiyana/abhiyana/blob/main/anime_1.png)
 
 ## 🚀 About Me
 I'm a passionate software developer specializing in Rust, Golang, and Blockchain technologies. Currently, I'm working on developing a Substrate-based chain.
@@ -19,7 +19,7 @@ I'm a passionate software developer specializing in Rust, Golang, and Blockchain
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ## 🔗 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/abhiyana)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/abhishek-harde-056a2a1a8/)
 
 ## 🏆 GitHub Trophies
 ![trophy](https://github-profile-trophy.vercel.app/?username=abhiyana&theme=onedark)
@@ -28,7 +28,7 @@ I'm a passionate software developer specializing in Rust, Golang, and Blockchain
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhiyana&layout=compact&theme=radical)
 
 ## 📄 Resume
-You can view my resume [here](link-to-your-resume).
+You can view my resume [here](https://github.com/abhiyana/abhiyana/blob/main/abhishek_g_resume.pdf).
 
 ## 🤔 Have an Idea?
 If you have any cool project ideas or want to collaborate, feel free to reach out!
